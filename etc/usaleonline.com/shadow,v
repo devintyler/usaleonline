@@ -1,0 +1,100 @@
+head	1.6;
+access;
+symbols;
+locks
+	usaleo5:1.6; strict;
+comment	@# @;
+
+
+1.6
+date	2013.08.15.01.28.45;	author usaleo5;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.08.15.01.28.45;	author usaleo5;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.08.08.00.45.31;	author usaleo5;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.08.08.00.30.43;	author usaleo5;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.08.08.00.28.17;	author usaleo5;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.08.08.00.28.17;	author usaleo5;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@ronny:$1$IsLPNrT/$URYkrIz1B8QiCIBfj2fhh0:15925::::::
+universityyardsale:$1$Kndf1LL0$UB95mKWTHVCZOIvVn6B28/:15925::::::
+donotreply:$1$fqyp/JCj$cnnKhVBwKaH3yCO7M4RwF1:15925::::::
+support:$1$rjGPzUZ.$Uob0nw6VVtXQdJ60zkW15.:15932::::::
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+a3 1
+donotreply:$1$octZkRMo$5hunr/uaMAiH6Wa9yeg2T.:15925::::::
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
