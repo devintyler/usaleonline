@@ -1,0 +1,17 @@
+# To set your custom php.ini, add the following line to this file:
+# suphp_configpath /home/yourusername/path/to/php.ini
+
+
+Order deny,allow
+ErrorDocument 400 http://usaleonline.com/error.shtml
+ErrorDocument 401 http://usaleonline.com/error.shtml
+ErrorDocument 403 http://usaleonline.com/error.shtml
+ErrorDocument 404 http://usaleonline.com/error.shtml
+ErrorDocument 500 http://usaleonline.com/error.shtml
+
+
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php

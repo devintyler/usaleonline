@@ -1,0 +1,38 @@
+Return-path: <>
+Envelope-to: usaleo5@biz141.inmotionhosting.com
+Delivery-date: Sun, 11 Aug 2013 07:26:50 -0700
+Received: from mailnull by biz141.inmotionhosting.com with local (Exim 4.80)
+	id 1V8Wba-0004mi-P3
+	for usaleo5@biz141.inmotionhosting.com; Sun, 11 Aug 2013 07:26:50 -0700
+X-Failed-Recipients: $wishlistemail@biz141.inmotionhosting.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@biz141.inmotionhosting.com>
+To: usaleo5@biz141.inmotionhosting.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1V8Wba-0004mi-P3@biz141.inmotionhosting.com>
+Date: Sun, 11 Aug 2013 07:26:50 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  $wishlistemail@biz141.inmotionhosting.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <usaleo5@biz141.inmotionhosting.com>
+Received: from usaleo5 by biz141.inmotionhosting.com with local (Exim 4.80)
+	(envelope-from <usaleo5@biz141.inmotionhosting.com>)
+	id 1V8Wba-0004md-ND
+	for $wishlistemail@biz141.inmotionhosting.com; Sun, 11 Aug 2013 07:26:50 -0700
+To: $wishlistemail@biz141.inmotionhosting.com
+Subject: donotreply@tcm.com
+Message-Id: <E1V8Wba-0004md-ND@biz141.inmotionhosting.com>
+From: usaleo5@biz141.inmotionhosting.com
+Date: Sun, 11 Aug 2013 07:26:50 -0700
+
+Some has posted a listing of $wishlisttitle at $price dollars. They can be reached at email: $sessionemail
+
+A book on your wishlist has been posted!

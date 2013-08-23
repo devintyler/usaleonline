@@ -1,0 +1,84 @@
+head	1.5;
+access;
+symbols;
+locks
+	usaleo5:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2013.08.15.01.28.45;	author usaleo5;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.08.08.00.45.31;	author usaleo5;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.08.08.00.30.43;	author usaleo5;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.08.08.00.28.17;	author usaleo5;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.08.08.00.28.17;	author usaleo5;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@ronny:x:1122:1121::/home/usaleo5/mail/usaleonline.com/mail/usaleonline.com/ronny:/home/usaleo5
+universityyardsale:x:1122:1121::/home/usaleo5/mail/usaleonline.com/mail/usaleonline.com/universityyardsale:/home/usaleo5
+donotreply:x:1122:1121::/home/usaleo5/mail/usaleonline.com/mail/usaleonline.com/donotreply:/home/usaleo5
+support:x:1122:1121::/home/usaleo5/mail/usaleonline.com/mail/usaleonline.com/support:/home/usaleo5
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

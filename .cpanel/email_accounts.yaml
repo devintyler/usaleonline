@@ -1,0 +1,24 @@
+--- 
+__version: '2.1'
+usaleonline.com: 
+  account_count: 4
+  accounts: 
+    donotreply: 
+      disk_mtime: '1377270018'
+      diskquota: 0
+      diskused: 129981
+    ronny: 
+      disk_mtime: '1377270018'
+      diskquota: 0
+      diskused: 0
+    support: 
+      disk_mtime: '1377270018'
+      diskquota: 0
+      diskused: 0
+    universityyardsale: 
+      disk_mtime: '1377270018'
+      diskquota: 0
+      diskused: 0
+  disk_mtime: '1377270018'
+  passwd_mtime: '1377270018'
+  quota_mtime: '1377270018'
