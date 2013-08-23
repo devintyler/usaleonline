@@ -1,0 +1,36 @@
+Return-path: <>
+Envelope-to: usaleo5@biz141.inmotionhosting.com
+Delivery-date: Sun, 11 Aug 2013 10:59:35 -0700
+Received: from mailnull by biz141.inmotionhosting.com with local (Exim 4.80)
+	id 1V8ZvT-0004qT-Ld
+	for usaleo5@biz141.inmotionhosting.com; Sun, 11 Aug 2013 10:59:35 -0700
+X-Failed-Recipients: $selleremail@biz141.inmotionhosting.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@biz141.inmotionhosting.com>
+To: usaleo5@biz141.inmotionhosting.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1V8ZvT-0004qT-Ld@biz141.inmotionhosting.com>
+Date: Sun, 11 Aug 2013 10:59:35 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  $selleremail@biz141.inmotionhosting.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <usaleo5@biz141.inmotionhosting.com>
+Received: from usaleo5 by biz141.inmotionhosting.com with local (Exim 4.80)
+	(envelope-from <usaleo5@biz141.inmotionhosting.com>)
+	id 1V8ZvT-0004qN-Ju
+	for $selleremail@biz141.inmotionhosting.com; Sun, 11 Aug 2013 10:59:35 -0700
+To: $selleremail@biz141.inmotionhosting.com
+Subject: Someone Wants to Buy Your Book!
+From: donotreply@usaleonline.com
+Message-Id: <E1V8ZvT-0004qN-Ju@biz141.inmotionhosting.com>
+Date: Sun, 11 Aug 2013 10:59:35 -0700
+
+$buyername is interested in your listing of $booktitle. They can be reached at email: $sessionemail or phone number: $buyerphonenumber

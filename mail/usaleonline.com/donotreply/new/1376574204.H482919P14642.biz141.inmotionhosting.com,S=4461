@@ -1,0 +1,113 @@
+Return-path: <>
+Envelope-to: donotreply@usaleonline.com
+Delivery-date: Thu, 15 Aug 2013 06:43:24 -0700
+Received: from gmx16.home.nyu.edu ([128.122.118.143]:41451 helo=gmx3.home.nyu.edu)
+	by biz141.inmotionhosting.com with esmtp (Exim 4.80)
+	id 1V9xpj-0003mx-Kc
+	for donotreply@usaleonline.com; Thu, 15 Aug 2013 06:43:24 -0700
+Received: from localhost (localhost)
+	by gmx3.home.nyu.edu (8.13.8/8.13.8) id r7FDhMKh005273;
+	Thu, 15 Aug 2013 09:43:22 -0400 (EDT)
+Date: Thu, 15 Aug 2013 09:43:22 -0400 (EDT)
+From: Mail Delivery Subsystem <MAILER-DAEMON@nyu.edu>
+Message-Id: <201308151343.r7FDhMKh005273@gmx3.home.nyu.edu>
+To: <donotreply@usaleonline.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="r7FDhMKh005273.1376574202/gmx3.home.nyu.edu"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--r7FDhMKh005273.1376574202/gmx3.home.nyu.edu
+
+The original message was received at Thu, 15 Aug 2013 09:43:19 -0400 (EDT)
+from MX3.NYU.EDU [128.122.118.243]
+
+   ----- The following addresses had permanent fatal errors -----
+<testfail@nyu.edu>
+    (reason: 550-5.1.1 The email account that you tried to reach does not exist. Please try)
+
+   ----- Transcript of session follows -----
+... while talking to aspmx.l.google.com.:
+>>> DATA
+<<< 550-5.1.1 The email account that you tried to reach does not exist. Please try
+<<< 550-5.1.1 double-checking the recipient's email address for typos or
+<<< 550-5.1.1 unnecessary spaces. Learn more at
+<<< 550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 e4si12438102qas.176 - gsmtp
+550 5.1.1 <testfail@nyu.edu>... User unknown
+<<< 503 5.5.1 RCPT first. e4si12438102qas.176 - gsmtp
+
+--r7FDhMKh005273.1376574202/gmx3.home.nyu.edu
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gmx3.home.nyu.edu
+Received-From-MTA: DNS; MX3.NYU.EDU
+Arrival-Date: Thu, 15 Aug 2013 09:43:19 -0400 (EDT)
+
+Final-Recipient: RFC822; testfail@nyu.edu
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; aspmx.l.google.com
+Diagnostic-Code: SMTP; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+Last-Attempt-Date: Thu, 15 Aug 2013 09:43:22 -0400 (EDT)
+
+--r7FDhMKh005273.1376574202/gmx3.home.nyu.edu
+Content-Type: message/rfc822
+
+Return-Path: <donotreply@usaleonline.com>
+Received: from mx3.nyu.edu (MX3.NYU.EDU [128.122.118.243])
+	by gmx3.home.nyu.edu (8.13.8/8.13.8) with ESMTP id r7FDhIKh005230
+	for <testfail@nyu.edu>; Thu, 15 Aug 2013 09:43:19 -0400 (EDT)
+Received: from r1.home.nyu.edu (R1.HOME.NYU.EDU [128.122.118.240])
+	by mx3.nyu.edu (8.13.8/8.13.8) with ESMTP id r7FDhH5C005135
+	for <testfail@nyu.edu>; Thu, 15 Aug 2013 09:43:18 -0400 (EDT)
+Received: from biz141.inmotionhosting.com ([192.145.239.5])
+  by r1.home.nyu.edu with ESMTP; 15 Aug 2013 09:42:57 -0400
+Received: from localhost ([::1]:51445 helo=usaleonline.com)
+	by biz141.inmotionhosting.com with esmtpa (Exim 4.80)
+	(envelope-from <donotreply@usaleonline.com>)
+	id 1V9xpI-0003F3-FN
+	for testfail@nyu.edu; Thu, 15 Aug 2013 06:42:56 -0700
+Date: Thu, 15 Aug 2013 06:42:56 -0700
+To: testfail@nyu.edu
+From: U Sale <donotreply@usaleonline.com>
+Subject: Someone wants to buy your book!
+Message-ID: <beda8b5b04f5b5ecbec5b28aa3da9460@usaleonline.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.6 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_beda8b5b04f5b5ecbec5b28aa3da9460"
+Content-Transfer-Encoding: 8bit
+X-OutGoing-Spam-Status: No, score=-1.0
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - biz141.inmotionhosting.com
+X-AntiAbuse: Original Domain - nyu.edu
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - usaleonline.com
+X-Get-Message-Sender-Via: biz141.inmotionhosting.com: authenticated_id: donotreply@usaleonline.com
+
+--b1_beda8b5b04f5b5ecbec5b28aa3da9460
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+ is interested in your listing of testagainThey can be reached at email: 
+or phone number: 
+
+
+--b1_beda8b5b04f5b5ecbec5b28aa3da9460
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+ is interested in your listing of testagain! They can be reached at email:  or phone number: 
+
+
+
+--b1_beda8b5b04f5b5ecbec5b28aa3da9460--
+
+
+
+--r7FDhMKh005273.1376574202/gmx3.home.nyu.edu--
+

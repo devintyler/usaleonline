@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<!--Meta tags-->
+	<meta charset="utf-8">
+
+	<!--Title-->
+	<title>U Sale | Search</title>
+		
+	<!--Stylesheets-->
+	<link rel="stylesheet" href="simplesearch/css/style.css">
+	<link rel="shortcut icon" href="simplesearch/images/favicon.png">
+	<!--jQuery-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+	<!--HTML5 Shiv-->
+	<!--[if lt IE 9]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+<style type="text/css">
+body {
+
+ }
+</style>
+
+<script type="text/javascript">
+
+   var num;
+   var temp=0;
+   var speed=60000; /* this is set for 60 seconds, edit value to suit requirements */
+   var preloads=[];
+
+/* add any number of images here */
+
+preload(
+        'simplesearch/images/bg1.jpg',
+        'simplesearch/images/bg2.jpg',
+        'simplesearch/images/bg3.jpg',
+        'simplesearch/images/bg4.jpg'
+       );
+
+function preload(){
+
+for(var c=0;c<arguments.length;c++) {
+   preloads[preloads.length]=new Image();
+   preloads[preloads.length-1].src=arguments[c];
+  }
+ }
+
+function rotateImages() {
+   num=Math.floor(Math.random()*preloads.length);
+if(num==temp){
+   rotateImages();
+ }
+else {
+   document.body.style.backgroundImage='url('+preloads[num].src+')';
+   temp=num;
+
+setTimeout(function(){rotateImages()},speed);
+  }
+ }
+
+if(window.addEventListener){
+   window.addEventListener('load',rotateImages,false);
+ }
+else { 
+if(window.attachEvent){
+   window.attachEvent('onload',rotateImages);
+  }
+ }
+</script>
+
+
+<style type="text/css">
+#parent {
+    padding: 5% 0;
+}
+
+#child {
+    padding: 10% 0;
+}
+
+body {
+	background-repeat: no-repeat;
+
+  </style></head>
+  
+  
+<body style="background-image: url(simplesearch/images/bg_1.jpg); height: 517px;">
+<div id="parent">
+<div style="text-align: center;">
+</div>
+
+<div id="child">
+<div style="text-align: center;">
+</div>
+
+
+
+<table style="text-align: left; width: 527px; margin-left: auto; margin-right: auto; height: 299px;" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      
+
+      
+      <div id="wrapper">
+	<div id="main">
+	
+	<a href='.'>
+	<img style="width: 400px; height: 108px;" alt="" src="simplesearch/images/logo.png">
+	</a>
+	<p> </p><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="post" action="quicksearch.php"> 
+<input type="text" name="searchterm" type="text" value="" class="email" id="mce-EMAIL" placeholder="Search for books..." required="">
+<button type = "submit" value = "" name = "quicksearch">Search</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+				</div></div>				
+				
+      </td>
+      
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+<br>
+
+<br>
+
+</body>
+</html>
+
+
+
